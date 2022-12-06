@@ -46,5 +46,3 @@
 | Development Server | 192.168.0.153 | 20GB | 2GB |
 | Log Server | 192.168.0.154 | 20GB | 2GB |
 | DB Backup Server | 192.168.0.155 | 20GB | 2GB |
-
-
