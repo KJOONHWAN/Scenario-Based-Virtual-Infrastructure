@@ -42,8 +42,9 @@
 
 #
 ### 📝 각 구성 요소 버전 및 정보
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black"> <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=MariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black"> <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-FF455F?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
+- **OS**: Ubuntu 18.04.6-live-server-amd64
 - **Apache**: Apache/2.4.29
 - **Tomcat**: Apache Tomcat/9.0.16
 - **MariaDB**: 10.1.48-MariaDB
