@@ -52,8 +52,8 @@
 | Web Service Server | 192.168.0.151 | 20GB | 2GB |
 | DB Server | 192.168.0.152 | 20GB | 2GB |
 | Development Server | 192.168.0.153 | 20GB | 2GB |
-| Log Server | 192.168.0.154 | 20GB | 2GB |
-| DB Backup Server | 192.168.0.155 | 20GB | 2GB |
+| Log Server | 192.168.0.154 | 20GB | 1GB |
+| DB Backup Server | 192.168.0.155 | 20GB | 1GB |
 
 
 ## 💻 Web Service Server
