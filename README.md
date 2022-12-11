@@ -336,7 +336,7 @@ MariaDB [mysql]> select host, user, password from user;
 | host          | user | password                                  |
 +---------------+------+-------------------------------------------+
 | localhost     | root | *cda82de8117bc8eda72a04864ecece43040fb5da |
-| 192.168.0.171 | root | *cda82de8117bc8eda72a04864ecece43040fb5da |
+| 192.168.0.151 | root | *cda82de8117bc8eda72a04864ecece43040fb5da |
 +---------------+------+-------------------------------------------+
 ```
 
